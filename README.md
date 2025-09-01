@@ -1,9 +1,9 @@
-EXP-1 – PROMPT ENGINEERING
-Aim
+## EXP-1 – PROMPT ENGINEERING
+## Aim
 
 To study and understand the fundamental concepts of Generative AI and Large Language Models (LLMs), focusing on their architectures, applications, and the impact of scaling.
 
-Experiment
+## Experiment
 
 Develop a comprehensive report covering:
 
@@ -15,7 +15,7 @@ Applications of Generative AI.
 
 Impact of scaling in LLMs.
 
-Algorithm
+## Algorithm
 
 Start with the definition of Generative AI and its working principle.
 
@@ -27,7 +27,7 @@ Analyze the impact of scaling in LLMs (performance, emergent abilities, challeng
 
 Summarize findings into a structured report.
 
-Output
+## Output
 1. Foundational Concepts of Generative AI
 
 Generative AI refers to artificial intelligence systems that can generate new data, text, images, music, or code that resembles human-created content.
@@ -82,7 +82,7 @@ Ethical and security concerns.
 
 Future Direction: Efficient training (parameter-efficient tuning, quantization), domain-specific LLMs.
 
-Result
+## Result
 
 The experiment successfully explains the fundamentals of Generative AI and LLMs.
 
